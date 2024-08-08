@@ -1,0 +1,178 @@
+[
+  {
+    "name": "iPhone 15",
+    "description": "The latest smartphone from Apple",
+    "price": 999.99,
+    "stock": 0,
+    "imgUrl": "https://example.com/iphone15.jpg",
+    "category": "Smartphone"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold 5",
+    "description": "Foldable smartphone with advanced features",
+    "price": 1599.99,
+    "stock": 30,
+    "imgUrl": "https://example.com/galaxyzfold5.jpg",
+    "category": "Smartphone"
+  },
+  {
+    "name": "Motorola Edge 50",
+    "description": "High-performance smartphone with edge-to-edge display",
+    "price": 899.99,
+    "stock": 40,
+    "imgUrl": "https://example.com/motoedge50.jpg",
+    "category": "Smartphone"
+  },
+  {
+    "name": "Samsung Odyssey G9",
+    "description": "Ultra-wide gaming monitor with 240Hz refresh rate",
+    "price": 1499.99,
+    "stock": 20,
+    "imgUrl": "https://example.com/odysseyg9.jpg",
+    "category": "Monitor"
+  },
+  {
+    "name": "LG UltraGear 38GN950-B",
+    "description": "38-inch curved gaming monitor with NVIDIA G-SYNC",
+    "price": 1799.99,
+    "stock": 15,
+    "imgUrl": "https://example.com/ultragear38gn950.jpg",
+    "category": "Monitor"
+  },
+  {
+    "name": "Acer Predator XB273K",
+    "description": "27-inch 4K UHD gaming monitor with 144Hz refresh rate",
+    "price": 1299.99,
+    "stock": 25,
+    "imgUrl": "https://example.com/predatorxb273k.jpg",
+    "category": "Monitor"
+  },
+  {
+    "name": "Razer BlackWidow V4",
+    "description": "Mechanical gaming keyboard with customizable RGB lighting",
+    "price": 149.99,
+    "stock": 50,
+    "imgUrl": "https://example.com/blackwidowv4.jpg",
+    "category": "Keyboard"
+  },
+  {
+    "name": "Corsair K95 RGB Platinum XT",
+    "description": "Premium mechanical keyboard with Cherry MX switches",
+    "price": 199.99,
+    "stock": 35,
+    "imgUrl": "https://example.com/k95rgbplatinumxt.jpg",
+    "category": "Keyboard"
+  },
+  {
+    "name": "Logitech G Pro X Superlight",
+    "description": "Ultra-lightweight wireless gaming mouse with HERO sensor",
+    "price": 129.99,
+    "stock": 40,
+    "imgUrl": "https://example.com/gproxsuperlight.jpg",
+    "category": "Mouse"
+  },
+  {
+    "name": "SteelSeries Rival 600",
+    "description": "Dual-sensor gaming mouse with customizable weights",
+    "price": 79.99,
+    "stock": 60,
+    "imgUrl": "https://example.com/rival600.jpg",
+    "category": "Mouse"
+  },
+  {
+    "name": "HyperX Cloud Alpha S",
+    "description": "Wired gaming headset with virtual 7.1 surround sound",
+    "price": 129.99,
+    "stock": 30,
+    "imgUrl": "https://example.com/cloudalphas.jpg",
+    "category": "Auriculares"
+  },
+  {
+    "name": "Bose QuietComfort 45",
+    "description": "Wireless noise-cancelling headphones with Alexa voice control",
+    "price": 299.99,
+    "stock": 25,
+    "imgUrl": "https://example.com/quietcomfort45.jpg",
+    "category": "Auriculares"
+  },
+  {
+    "name": "Canon PIXMA G7020",
+    "description": "All-in-one printer with refillable ink tanks",
+    "price": 399.99,
+    "stock": 10,
+    "imgUrl": "https://example.com/pixmag7020.jpg",
+    "category": "Impresoras"
+  },
+  {
+    "name": "Epson EcoTank ET-4760",
+    "description": "Wireless supertank printer with auto 2-sided printing",
+    "price": 499.99,
+    "stock": 15,
+    "imgUrl": "https://example.com/ecotanket4760.jpg",
+    "category": "Impresoras"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 4090",
+    "description": "Flagship graphics card for extreme gaming performance",
+    "price": 2499.99,
+    "stock": 5,
+    "imgUrl": "https://example.com/rtx4090.jpg",
+    "category": "Tarjetas gráficas"
+  },
+  {
+    "name": "AMD Radeon RX 8800 XT",
+    "description": "High-end graphics card for 4K gaming and content creation",
+    "price": 1899.99,
+    "stock": 8,
+    "imgUrl": "https://example.com/rx8800xt.jpg",
+    "category": "Tarjetas gráficas"
+  },
+  {
+    "name": "Intel Core i9-12900K",
+    "description": "Flagship desktop processor with DDR5 and PCIe 5.0 support",
+    "price": 699.99,
+    "stock": 12,
+    "imgUrl": "https://example.com/corei912900k.jpg",
+    "category": "Procesadores"
+  },
+  {
+    "name": "Corsair Vengeance LPX 32GB (2x16GB)",
+    "description": "High-performance DDR4 RAM for gaming and overclocking",
+    "price": 199.99,
+    "stock": 20,
+    "imgUrl": "https://example.com/vengeancelpx32gb.jpg",
+    "category": "Memorias RAM"
+  },
+  {
+    "name": "G.Skill Trident Z Neo 64GB (2x32GB)",
+    "description": "RGB DDR4 RAM kit optimized for AMD Ryzen processors",
+    "price": 399.99,
+    "stock": 15,
+    "imgUrl": "https://example.com/tridentzneo64gb.jpg",
+    "category": "Memorias RAM"
+  },
+  {
+    "name": "Samsung 980 PRO 2TB",
+    "description": "High-speed NVMe SSD for gaming and content creation",
+    "price": 399.99,
+    "stock": 10,
+    "imgUrl": "https://example.com/980pro2tb.jpg",
+    "category": "Discos duros"
+  },
+  {
+    "name": "Seagate IronWolf Pro 10TB",
+    "description": "Enterprise NAS hard drive with 7200 RPM and 256MB cache",
+    "price": 399.99,
+    "stock": 8,
+    "imgUrl": "https://example.com/ironwolfpro10tb.jpg",
+    "category": "Discos duros"
+  },
+  {
+    "name": "Crucial MX500 1TB",
+    "description": "SATA SSD with sequential read/write speeds up to 560/510 MB/s",
+    "price": 99.99,
+    "stock": 30,
+    "imgUrl": "https://example.com/mx5001tb.jpg",
+    "category": "Discos duros"
+  }
+]
