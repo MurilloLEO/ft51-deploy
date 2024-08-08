@@ -4,6 +4,8 @@ import { LoggerMiddleware } from './middlewares/logger.middleware';
 import { ValidationPipe } from '@nestjs/common';
 import { DocumentBuilder, SwaggerModule } from '@nestjs/swagger';
 
+const PORT = process.env.PORT || 3000;
+
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
 
@@ -20,7 +22,7 @@ async function bootstrap() {
   app.useGlobalPipes(new ValidationPipe({
     whitelist:true, 
   }));
-  await app.listen(3000);
+  await app.listen(PORT);
   console.log('Server listening on http://localhost:3000');
   
 }
